@@ -18,7 +18,7 @@ load([headModelPath 'Atlas.mat'])
 load([headModelPath 'CollapseOperator.mat'])
 load([headModelPath 'InverseOperator.mat'])
 
-% leakage correction and dipole resolving initalization
+% new sampling ferquency
 Fs    = 100;           % sampling rate
 [p,q] = rat(Fs / 250); % for resampling
 
