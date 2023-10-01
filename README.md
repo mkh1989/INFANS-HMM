@@ -6,7 +6,7 @@ The results of this study is published at:
 https://doi.org/10.1016/j.neuroimage.2023.120342
 
 # Dependencies
-- [HMM-MAR toolbox][hmm-identifier]
+- [HMM-MAR][hmm-identifier]
 - [EEGLAB][eeglab-identifier]
 
 [eeglab-identifier]: https://github.com/sccn/eeglab
