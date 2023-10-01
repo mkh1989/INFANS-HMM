@@ -4,3 +4,7 @@ This work is supported by the European Union under the H2020-EU.1.3.1 Program (E
 
 The results of this study is published at:
 https://doi.org/10.1016/j.neuroimage.2023.120342
+
+# Dependencies
+- Item 1 [HMM-MAR toolbox][https://github.com/OHBA-analysis/HMM-MAR]
+- Item 2 [EEGLAB][https://github.com/sccn/eeglab]
